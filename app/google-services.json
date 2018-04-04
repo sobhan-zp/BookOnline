@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "729587626379",
+    "firebase_url": "https://mwmebood.firebaseio.com",
+    "project_id": "mwmebood",
+    "storage_bucket": "mwmebood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729587626379:android:ced29b81ceabab7b",
+        "android_client_info": {
+          "package_name": "com.loper.ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729587626379-kq9k99gbhn09suf4vhg4k376i7fap3g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-E5Zjk_PxaPzegwIupBl5i_UtrAeLKhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

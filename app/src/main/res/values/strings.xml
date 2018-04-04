@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--application name-->
+    <string name="app_name">کتاب آنلاین</string>
+
+    <!--Drawer List Name-->
+    <string name="drawer_books_list">لیست مطالب</string>
+    <string name="drawer_bookmark">علاقه مندی ها</string>
+    <string name="drawer_rate">امتیاز دادن</string>
+    <string name="drawer_more">سایر برنامه ها</string>
+    <string name="drawer_other">درباره ما</string>
+
+    <!-- Change AdMob Banner and Interstitial Id -->
+    <string name="admob_banner_id">ca-app-pub-2275082029538522/9859232298</string>
+    <string name="admob_interstitial_id">0</string>
+
+    <!-- Set to @string/admob_off to disable admob and to @string/admob_on enable admob -->
+    <string name="admob_visibility">@string/admob_off</string>
+
+    <!--Value Enable and Disable AdMob-->
+    <string name="admob_on">0</string>
+    <string name="admob_off">2</string>
+
+    <!-- play store application link more apps -->
+    <string name="more_apps">https://cafebazaar.ir/developer/moazzam/</string>
+
+    <!--app about information-->
+    <string name="app_version">نسخه 1.1</string>
+    <string name="app_copyright">Copyright &#169; 2017 MihanWebmaster \n تمامی حقوق محفوظ میباشد</string>
+    <string name="app_email">info@mihanwebmaster.com</string>
+    <string name="rate_summary">جهت امتیاز یا ارسال نظر در مورد این برنامه اینجا کلیک کنید</string>
+    <string name="more_summary">جهت مشاهده سایر برنامه های ما کلیک کنید</string>
+    <string name="title_app_name">نام اپلیکیشن</string>
+    <string name="title_app_version">نسخه برنامه</string>
+    <string name="title_app_email">ایمیل سازنده</string>
+    <string name="title_app_copyright">کپی رایت</string>
+    <string name="title_app_rate">امتیاز دادن</string>
+    <string name="title_app_more">سایر برنامه ها</string>
+
+    <!--network-->
+    <string name="failed_connect_network">اینترنت شما قطع میباشد !!!</string>
+    <string name="loading">درحال بارگذاری ...</string>
+
+    <!--firebase analytics-->
+    <string name="analytics_item_id_1">main_menu</string>
+    <string name="analytics_item_id_2">story_list</string>
+    <string name="analytics_item_id_3">story_detail</string>
+    <string name="analytics_item_name_1">Main Menu</string>
+    <string name="analytics_item_name_2">Story List</string>
+    <string name="analytics_item_name_3">Story Detail</string>
+
+    <!--others-->
+    <string name="img_no">تاکنون مطلبی را به علاقه مندی های خود اضافه نکرده اید</string>
+    <string name="menu_share">اشتراک گذاری</string>
+    <string name="menu_next">صفحه بعد</string>
+    <string name="menu_fav">Fav</string>
+    <string name="menu_back">صفحه قبل</string>
+    <string name="menu_favorite">علاقه مندی ها من</string>
+    <string name="search_hint">متن مورد نظر جهت جستجو را وارد کنید ...</string>
+    <string name="menu_search">جستجو</string>
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+    <string name="content">@string/content_value</string>
+    <string name="content_value">2</string>
+
+</resources>
